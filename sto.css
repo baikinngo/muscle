@@ -4,7 +4,7 @@ body{
 background-attachment: fixed;
 background-position: center;
 background-size: cover;
-  /* background-image:url(./aaa.jpg); */
+  background-image:url(./aaa.jpg);
   background-repeat: no-repeat;
   position: relative;
 }
